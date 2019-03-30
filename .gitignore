@@ -11,6 +11,7 @@ __pycache__/
 include
 bin
 share
+.idea/workspace.xml
 .idea
 build/
 develop-eggs/
